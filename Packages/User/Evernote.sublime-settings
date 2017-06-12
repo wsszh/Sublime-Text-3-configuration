@@ -1,0 +1,5 @@
+{
+    "noteStoreUrl": "http://app.yinxiang.com/shard/s3/notestore",
+    "token": "S=s3:U=1021168:E=160d9e7abd5:C=15982367c70:P=1cd:A=en-devtoken:V=2:H=950d76a5f39e6b5af53e74db077b204a",
+    "code_highlighting_style": "monokai",
+}

@@ -1,0 +1,12 @@
+{
+	"default_encoding": "UTF-8",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

@@ -1,0 +1,6 @@
+{
+    //使得html换行后自动缩进
+    "autodetect_xhtml": false,
+    //按一次tab可以缩进足够的距离
+    "use_old_tab_handler": true,
+}

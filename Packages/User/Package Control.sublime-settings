@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"Angular 2 Snippets (John Papa)",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"ChineseTranslator",
+		"Evernote",
+		"HTML-CSS-JS Prettify",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"TypeScript"
+	]
+}

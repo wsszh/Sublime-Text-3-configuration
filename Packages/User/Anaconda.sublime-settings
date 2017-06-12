@@ -1,0 +1,6 @@
+{
+    //取消Python代码不符合PEP8要求时出现白框
+    "anaconda_linting": false,
+    //自己的Python路径
+    "python_interpreter": "C:/Users/49255/AppData/Local/Programs/Python/Python35/python.exe",
+}

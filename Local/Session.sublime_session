@@ -1,0 +1,2908 @@
+{
+	"folder_history":
+	[
+		"/D/Study/Coding/Python/study materials/集体智慧编程源码",
+		"/D/Study/Coding/Python/code/Programming Collective Intelligence",
+		"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 02",
+		"/D/Study/Coding/Python/code/my_crawler/paparaco.me",
+		"/D/Study/Coding/Python/code/my_crawler/mzitu.com",
+		"/D/Study/Coding/Python/code/Web scraping with Python",
+		"/D/Study/Coding/Python/code/my_crawler",
+		"/D/Study/Coding/GitHub/ZhihuSpider",
+		"/D/Study/Coding/Angular 2/Bosun-GUI",
+		"/D/Study/Coding/Boostrap/Bosun-UI-Demo",
+		"/D/Study/Coding/Angular 2/Bosun_GUI",
+		"/D/Study/Coding/Angular 2",
+		"/D/Study/数字艺术设计/Enjoy Water Sports"
+	],
+	"last_version": 3126,
+	"last_window_id": 30,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 540.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Im",
+						"ImageDraw\tmodule"
+					],
+					[
+						"rea",
+						"real_dist\tstatement"
+					],
+					[
+						"dra",
+						"drawDendrogram\tfunction"
+					],
+					[
+						"kcl",
+						"kclust\tstatement"
+					],
+					[
+						"kclu",
+						"kcluster\tfunction"
+					],
+					[
+						"best",
+						"best_matches\tstatement"
+					],
+					[
+						"bestma",
+						"besst_match\tstatement"
+					],
+					[
+						"clust",
+						"clusters\tstatement"
+					],
+					[
+						"wor",
+						"words\tstatement"
+					],
+					[
+						"Image",
+						"ImageDraw\tmodule"
+					],
+					[
+						"distan",
+						"distances\tstatement"
+					],
+					[
+						"dist",
+						"distance\tparam"
+					],
+					[
+						"dista",
+						"distances\tstatement"
+					],
+					[
+						"sum2",
+						"sum2\tstatement"
+					],
+					[
+						"getWo",
+						"getWordCounts\tfunction"
+					],
+					[
+						"sim",
+						"similarity\tparam"
+					],
+					[
+						"item",
+						"items\tfunction"
+					],
+					[
+						"per",
+						"person1\tparam"
+					],
+					[
+						"page",
+						"page_num\tparam"
+					],
+					[
+						"getIm",
+						"getImgPageUrl\tfunction"
+					],
+					[
+						"geti",
+						"getImg\tfunction"
+					],
+					[
+						"div",
+						"div_nav\tstatement"
+					],
+					[
+						"no",
+						"None"
+					],
+					[
+						"getim",
+						"getImgPageUrl\tfunction"
+					],
+					[
+						"star",
+						"start_page\tstatement"
+					],
+					[
+						"UTF",
+						"utf-8"
+					],
+					[
+						"utf",
+						"utf-8"
+					],
+					[
+						"pap",
+						"paparaco_collection\tstatement"
+					],
+					[
+						"find",
+						"find_all"
+					],
+					[
+						"fin",
+						"find_all"
+					],
+					[
+						"image",
+						"image_img\tstatement"
+					],
+					[
+						"imga",
+						"image_url\tstatement"
+					],
+					[
+						"fi",
+						"find\tfunction"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"export",
+						"export\tkeyword"
+					],
+					[
+						"rou",
+						"RouterModule\talias"
+					],
+					[
+						"impor",
+						"imports\tproperty"
+					],
+					[
+						"router",
+						"RouterModule\talias"
+					],
+					[
+						"hea",
+						"header"
+					],
+					[
+						"em",
+						"embed\tTag"
+					],
+					[
+						"con",
+						"container-fluid \tBootstrap 3 Class"
+					],
+					[
+						"ste",
+						"stylesheet"
+					],
+					[
+						"bs3-li",
+						"bs3-list-group\tbs3-list-group"
+					],
+					[
+						"bs3-table",
+						"bs3-table:bordered\tbs3-table-bordered"
+					],
+					[
+						"nva",
+						"navbar"
+					],
+					[
+						"hero",
+						"hero-search.component\tscript"
+					],
+					[
+						"swi",
+						"switchMap\tproperty"
+					],
+					[
+						"dis",
+						"distinctUntilChanged\tproperty"
+					],
+					[
+						"ser",
+						"searchTerms\tproperty"
+					],
+					[
+						"injec",
+						"Injectable\tinterface"
+					],
+					[
+						"he",
+						"heroesUrl\tproperty"
+					],
+					[
+						"her",
+						"heroes\tproperty"
+					],
+					[
+						"prom",
+						"Promise\tinterface"
+					],
+					[
+						"htt",
+						"Http\talias"
+					],
+					[
+						"inme",
+						"InMemoryDataService\talias"
+					],
+					[
+						"inmemo",
+						"InMemoryWebApiModule\tclass"
+					],
+					[
+						"in",
+						"InMemoryBackendService\tclass"
+					],
+					[
+						"http",
+						"HttpModule\talias"
+					],
+					[
+						"HTT",
+						"HttpModule\talias"
+					],
+					[
+						"styl",
+						"styleUrls\tproperty"
+					],
+					[
+						"stye",
+						"styleUrls\tproperty"
+					],
+					[
+						"app",
+						"app-routing.module\tscript"
+					],
+					[
+						"clas",
+						"class\tkeyword"
+					],
+					[
+						"Route",
+						"RouterModule\talias"
+					],
+					[
+						"rout",
+						"Routes\talias"
+					],
+					[
+						"ng",
+						"ngFor\tAngular 2 ngFor Snippet"
+					],
+					[
+						"teml",
+						"templateUrl\tproperty"
+					],
+					[
+						"th",
+						"then\tmethod"
+					],
+					[
+						"get",
+						"getHeroes\tmethod"
+					],
+					[
+						"Hero",
+						"Hero\talias"
+					],
+					[
+						"on",
+						"OnInit\talias"
+					],
+					[
+						"temp",
+						"templateUrl\tproperty"
+					],
+					[
+						"for",
+						"forRoot\tmethod"
+					],
+					[
+						"pro",
+						"providers\tproperty"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
+					[
+						"impo",
+						"import\tkeyword"
+					],
+					[
+						"img",
+						"img_url\tstatement"
+					],
+					[
+						"mzi",
+						"mzitu_collection\tstatement"
+					],
+					[
+						"time",
+						"timeout\tparam"
+					],
+					[
+						"tim",
+						"timeout\tparam"
+					],
+					[
+						"proxy",
+						"proxy\tstatement"
+					],
+					[
+						"proxy_ip",
+						"proxy_ip_list"
+					],
+					[
+						"Imagef",
+						"ImageFilter\tmodule"
+					],
+					[
+						"webdr",
+						"webdriver"
+					],
+					[
+						"web",
+						"WebDriverWait\tclass"
+					],
+					[
+						"b",
+						"By\tclass"
+					],
+					[
+						"ex",
+						"executable_path\tparam"
+					],
+					[
+						"ph",
+						"PhantomJS\tclass"
+					],
+					[
+						"sort",
+						"sortedNGrams\tstatement"
+					],
+					[
+						"ngram",
+						"ngramTemp\tstatement"
+					],
+					[
+						"ins",
+						"insertPageIfNotExists\tfunction"
+					],
+					[
+						"fet",
+						"fetchone\tfunction"
+					],
+					[
+						"hist",
+						"historyIP\tforstmt"
+					],
+					[
+						"his",
+						"historyIPs\tstatement"
+					],
+					[
+						"Http",
+						"HTTPError"
+					],
+					[
+						"add",
+						"addressList\tstatement"
+					],
+					[
+						"spli",
+						"splitAddress\tfunction"
+					],
+					[
+						"nam",
+						"nameList\tstatement"
+					],
+					[
+						"re",
+						"read"
+					],
+					[
+						"ni",
+						"nginx_writing"
+					],
+					[
+						"ngin",
+						"nginx_reading"
+					],
+					[
+						"thir",
+						"third_line\tstatement"
+					],
+					[
+						"request",
+						"requests\tstatement"
+					],
+					[
+						"ngi",
+						"nginx_server_requests"
+					],
+					[
+						"ma",
+						"matcher\tstatement"
+					],
+					[
+						"url",
+						"urllib\tmodule"
+					],
+					[
+						"metr",
+						"metric_Innodb_buffer_pool_page_free\tstatement"
+					],
+					[
+						"getke",
+						"GetKeyUsageRatio\tfunction"
+					],
+					[
+						"me",
+						"metric_key_usage_ratio\tstatement"
+					],
+					[
+						"getkey",
+						"GetKeyWriteHitRatio\tfunction"
+					],
+					[
+						"met",
+						"metric_key_write_hit_ratio\tstatement"
+					],
+					[
+						"getk",
+						"GetKeyReadHitRatio\tfunction"
+					],
+					[
+						"ge",
+						"get_queries\tfunction"
+					],
+					[
+						"ke",
+						"key_read_hit_ratio"
+					],
+					[
+						"key",
+						"Key_reads"
+					],
+					[
+						"mysql_",
+						"mysql_keys\tglobalstmt"
+					],
+					[
+						"fac",
+						"fact_iter\tfunction"
+					],
+					[
+						"a",
+						"append\tfunction"
+					],
+					[
+						"git",
+						"github"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"tex",
+						"text-left"
+					],
+					[
+						"marg",
+						"margin-top"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "evr",
+				"selected_items":
+				[
+					[
+						"evr",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"packi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"pagciok",
+						"Package Control: Install Package"
+					],
+					[
+						"evenew",
+						"Evernote: New empty note"
+					],
+					[
+						"evernew",
+						"Evernote: New empty note"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"evercre",
+						"Evernote: Create New Notebook"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"eveat",
+						"Evernote: Insert link to a note (browse)"
+					],
+					[
+						"evecle",
+						"Evernote: Clear Notebook Cache"
+					],
+					[
+						"everne",
+						"Evernote: Create New Notebook"
+					],
+					[
+						"eveer ",
+						"Evernote: Clear Notebook Cache"
+					],
+					[
+						"eve de",
+						"Evernote: Delete Note"
+					],
+					[
+						"eve li",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve new",
+						"Evernote: New empty note"
+					],
+					[
+						"evedel",
+						"Evernote: Delete Note"
+					],
+					[
+						"evel",
+						"Evernote: List recent notes"
+					],
+					[
+						"evelis",
+						"Evernote: List linked notes"
+					],
+					[
+						"eveli",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve lis",
+						"Evernote: List recent notes"
+					],
+					[
+						"ever li",
+						"Evernote: List recent notes"
+					],
+					[
+						"ever lis",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernotesed",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"evernote",
+						"Evernote Settings: Reconfigure Authorization"
+					],
+					[
+						"sendtoe",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"Send to evernote",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"eve",
+						"Evernote: List recent notes"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"de",
+						"ANF: Delete Current File"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"del",
+						"ANF: Delete Current File"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"trans",
+						"Translate: 开始进行翻译"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"pcdp",
+						"Package Control: Discover Packages→搜索插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 545.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/clusters.py",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/generatefeedvector.py",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/clusters.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blogs2d.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 02/recommendations.py",
+				"/D/BIT的/毕业设计/演示系统/演示系统/数据库设计/zabbix数据库文件/schema.sql",
+				"/D/Study/Coding/Python/code/system_monitor/get_mysql_status.py",
+				"/D/Study/Coding/Python/code/system_monitor/get_nginx_status01.py",
+				"/D/Study/Coding/Python/code/system_monitor/get_nginx_status.py",
+				"/E/Software/加速度2.5.8/加速度2.5.8/pac.txt",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/zebo.txt",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blog_clust.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/word_clust.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blogdata.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/blogdata.txt",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/aaa",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/feedlist.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/feedlist.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/generatefeedvector.py",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/sublime-translate/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Installed Packages/ChineseTranslator.sublime-package",
+				"/E/sublime text projects/Programming Collective Intelligence.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Anaconda.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/E/sublime text projects/paparaco.me.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/LICENSE",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Study/Coding/Python/code/my_crawler/paparaco.me/paparaco.py",
+				"/D/Study/Coding/Python/code/my_crawler/paparaco.me/__init__.py",
+				"/D/Study/Coding/GitHub/ZhihuSpider/get_user.py",
+				"/D/Study/Coding/GitHub/ZhihuSpider/login/login.py",
+				"/D/Study/Coding/Python/code/my_crawler/mzitu.com/mzitu.py",
+				"/E/sublime text projects/Bosun-GUI.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/49255/Documents/My Knowledge/Plugins/ExportToMd/ExportToMd.js",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Evernote.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/49255/Desktop/test.md",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Evernote/README.md",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/app.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/css/style.css",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/templates.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.module.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.module.js",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/index.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app-routing.module.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/hosts.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/templates.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/hosts.component.html",
+				"/E/Coursera/machine-learning/exercise/nnCostFunction.m",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex2/machine-learning-ex2/ex2/ex2data1.txt",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex1/machine-learning-ex1/ex1/ex1data2.txt",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch04/array_ex.txt",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex1/machine-learning-ex1/ex1/ex1data1.txt",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/.gitignore",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/HTML/ToPiggy.html",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/gitignore",
+				"/D/Study/Coding/blessing/ForBaby/index.html",
+				"/D/Study/Coding/blessing/ForBaby/css/default.css",
+				"/D/Study/Coding/blessing/ForBaby/js/functions_dev.js",
+				"/D/Study/Coding/blessing/ForBaby/js/functions.js",
+				"/D/Study/Coding/blessing/Love/index.html",
+				"/D/Study/Coding/blessing/Merry-Christmas/index.html",
+				"/D/Study/Coding/blessing/MerryChristmas/index.html",
+				"/D/Study/Coding/blessing/MerryChristmas/js/index.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/dist/css/app.css",
+				"/D/Study/Coding/blessing/Merry-Christmas/dist/js/app.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/zepto-min.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/snowstorm.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/christmas.js",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/names/yob1880.txt",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/movielens/README",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/usagov_bitly_data2012-03-16-1331923249.txt",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/dashboard.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/dashboard.component.ts",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.css.map",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.min.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.css.map",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/style.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.min.css",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/css",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/CSS.sublime-settings",
+				"/D/Study/Coding/Boostrap/bootstrap-3.3.0-dist/dist/example.html",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/test.html",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.component.css",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/HTML.sublime-settings",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/node_modules/rxjs/operator/switchMap.d.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/tsserver/lib.es5.d.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Package Control.user-ca-bundle",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/README.md",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/README.md",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.module.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/Preferences.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/TypeScript.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/TypeScriptReact.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/TypeScript.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Study/Coding/Angular 2/quickstart/app/app.component.ts",
+				"/D/Study/Coding/Angular 2/quickstart/.gitignore",
+				"/D/Study/Coding/Angular 2/quickstart/package.json",
+				"/D/Study/Coding/Hexo/.gitignore",
+				"/D/Study/Coding/code_backup/hexo_blog_backup/.git/config",
+				"/D/Study/Coding/Python/code/system_monitor/jmx_action.py",
+				"/C/Users/49255/Desktop/新建文本文档 (6).txt",
+				"/E/data/log/mongod.log",
+				"/E/data/log/mongod.log.2016-12-17T09-53-49",
+				"/E/data/log/mongodb.log",
+				"/E/MongoDB/mongod.cfg",
+				"/E/MongoDB/mongodb.cfg",
+				"/D/Study/Coding/Python/code/my_crawler/mzitu.com/__init__.py",
+				"/D/Study/Coding/Python/code/my_crawler/mzitu.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/01.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/chapter10/01.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/chapter10/02.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/chapter08/03.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/chapter08/01.py",
+				"/D/Study/Coding/Python/code/Web scraping with Python/chapter08/02.py",
+				"/D/Study/Coding/Python/study materials/python网络数据采集 源代码 itshuji.com/python-scraping-master/chapter8/3-markovGenerator.py"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"disco",
+					"google",
+					"Pearson",
+					"path",
+					"alt+p",
+					"path",
+					")\n",
+					"&&",
+					"]]\n",
+					"del clust[lowest_pair[0]]",
+					"]]\n",
+					"\\",
+					"python_inte",
+					"inte",
+					"print",
+					"save",
+					"self.request",
+					"paparaco",
+					"check_login",
+					"check",
+					"md",
+					"m",
+					"md",
+					"---",
+					"timeElapse",
+					"typ",
+					"typewr",
+					"type",
+					"loveu",
+					"digi",
+					"font",
+					"comme",
+					"loveHe",
+					"elap",
+					"\\",
+					"active",
+					"head",
+					"Header",
+					"ctrl+",
+					"ctrl + up",
+					"handleError",
+					"google",
+					"zabbix",
+					"google",
+					"HeroDe",
+					"show",
+					"Heroes",
+					"a",
+					"Heroes",
+					"alt+s",
+					"alt+p",
+					"ctrl+shift+c",
+					"HeroDetailComponent",
+					"selectedHero",
+					"request",
+					"3",
+					"request",
+					"requests",
+					"isCommon",
+					"content[i : i + n]",
+					"把连续的多个空格替换成一个空格",
+					"input",
+					"[]",
+					"show",
+					"build",
+					"server_handled",
+					"server_accepts",
+					"nginx_waiting",
+					"nginx_writing",
+					"nginx_reading",
+					"nginx_server_requests",
+					"nginx_server_handled",
+					"nginx_server_accepts",
+					"active_connections",
+					"nginx_active_connections",
+					"dict",
+					"re",
+					"except",
+					"res",
+					"_glock",
+					"call_back",
+					"nginx_stub_status",
+					"_conns",
+					"_descriptors",
+					"test",
+					"remoteVideo",
+					"localVideo",
+					"text",
+					"scri",
+					"java",
+					"javas",
+					"133.133.134.163",
+					"data",
+					"jquery",
+					"algolia",
+					"algo",
+					"path",
+					"slug",
+					"增加",
+					"algolia",
+					"CONFIG",
+					"CO",
+					"algo",
+					"theme",
+					"hexo.con",
+					"algolia",
+					"algo",
+					"js",
+					"url",
+					"js",
+					"menu",
+					"version",
+					"algolia",
+					"pow",
+					"po",
+					"power",
+					")",
+					"SublimeREPL",
+					"sublimerepl:python",
+					"creativecommons.org",
+					"creativecommons.org/licenses",
+					"target",
+					"<a href=\"{{ link }}\" tar",
+					"<a href=\"{{ link }}\" target=\"_blank\">{{ name }",
+					"<a href=\"{{ link }}\" target=\"_blank\">{{ name }}</a>",
+					"short",
+					"sailing",
+					"分类"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"and",
+					"/",
+					"\\\\",
+					"hero",
+					"key",
+					"content",
+					"connections_handled",
+					"connections_accepts",
+					"waiting",
+					"writing",
+					"reading",
+					"client_requests",
+					"server_handled",
+					"server_accepts",
+					"active_connections",
+					"192.168.56.103",
+					"motorboat",
+					"品牌",
+					"motorboat",
+					"sailing",
+					"hw2007.com",
+					"www.hw2007.com",
+					"https://wsszh.github.io",
+					"https://wsszh.github.io/",
+					"wsszh.github.io",
+					"surfing",
+					"sailing",
+					"motorboat"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 307.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "Anaconda Python Builder",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"zeb",
+						"chapter 03\\zebo.txt"
+					],
+					[
+						"",
+						"D:\\Study\\Coding\\Python\\code\\Programming Collective Intelligence\\chapter 03\\clusters.jpg"
+					],
+					[
+						"app/html/ho",
+						"app\\html\\hosts.component.html"
+					],
+					[
+						"app/html/ap",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/appmod",
+						"app\\app.module.ts"
+					],
+					[
+						"app/appro",
+						"app\\app-routing.module.ts"
+					],
+					[
+						"app/appmo",
+						"app\\app.module.ts"
+					],
+					[
+						"hosts",
+						"app\\hosts.component.ts"
+					],
+					[
+						"appcomt",
+						"app\\app.component.ts"
+					],
+					[
+						"app/html/a",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/html/",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/csssty",
+						"app\\css\\style.css"
+					],
+					[
+						"appcomht",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/css/sty",
+						"app\\css\\style.css"
+					],
+					[
+						"app.co",
+						"app\\app.component.ts"
+					],
+					[
+						"app/html/app",
+						"app\\html\\app.component.html"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"app/app.modul",
+						"app\\app.module.ts"
+					],
+					[
+						"app/html",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app",
+						"app\\app.component.ts"
+					],
+					[
+						"dashbo",
+						"app\\dashboard.component.html"
+					],
+					[
+						"dash",
+						"app\\dashboard.component.ts"
+					],
+					[
+						"app/app",
+						"app\\app.component.ts"
+					],
+					[
+						"css/s",
+						"css\\style.css"
+					],
+					[
+						"css/st",
+						"css\\style.css"
+					],
+					[
+						"css/b",
+						"css\\bootstrap.css"
+					],
+					[
+						"css/boo",
+						"css\\bootstrap.css"
+					],
+					[
+						"boo",
+						"css\\bootstrap.min.css"
+					],
+					[
+						"app/i",
+						"app\\in-memory-data.service.ts"
+					],
+					[
+						"herosear",
+						"app\\hero-search.service.ts"
+					],
+					[
+						"herosearhtml",
+						"app\\hero-search.component.html"
+					],
+					[
+						"app/appmodul",
+						"app\\app.module.ts"
+					],
+					[
+						"heroes",
+						"app\\heroes.component.ts"
+					],
+					[
+						"herocom",
+						"app\\heroes.component.ts"
+					],
+					[
+						"hero.t",
+						"app\\hero.ts"
+					],
+					[
+						"heroser",
+						"app\\hero.service.ts"
+					],
+					[
+						"herosev",
+						"app\\hero.service.ts"
+					],
+					[
+						"heroescomcss",
+						"app\\heroes.component.css"
+					],
+					[
+						"heroesht",
+						"app\\heroes.component.html"
+					],
+					[
+						"heroeshtml",
+						"app\\heroes.component.html"
+					],
+					[
+						"herodt",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"herodethtml",
+						"app\\hero-detail.component.html"
+					],
+					[
+						"app/heroes",
+						"app\\heroes.component.ts"
+					],
+					[
+						"herodetts",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"hero-deh",
+						"app\\hero-detail.component.html"
+					],
+					[
+						"herose",
+						"app\\hero.service.ts"
+					],
+					[
+						"heroesh",
+						"app\\heroes.component.html"
+					],
+					[
+						"app.mo",
+						"app\\app.module.ts"
+					],
+					[
+						"appcss",
+						"app\\app.component.css"
+					],
+					[
+						"sty",
+						"styles.css"
+					],
+					[
+						"herode",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"approu",
+						"app\\app-routing.module.ts"
+					],
+					[
+						"dashboard.h",
+						"app\\dashboard.component.html"
+					],
+					[
+						"herodi",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"hero.con",
+						"app\\heroes.component.ts"
+					],
+					[
+						"ap.mu",
+						"app\\app.module.ts"
+					],
+					[
+						"hero.ser",
+						"app\\hero.service.ts"
+					],
+					[
+						"herodeta",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"app/modu",
+						"app\\app.module.ts"
+					],
+					[
+						"app/",
+						"app\\app.component.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 247.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 766.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"reqDataStr"
+					],
+					[
+						"Im",
+						"ImageDraw\tmodule"
+					],
+					[
+						"rea",
+						"real_dist\tstatement"
+					],
+					[
+						"dra",
+						"drawDendrogram\tfunction"
+					],
+					[
+						"kcl",
+						"kclust\tstatement"
+					],
+					[
+						"kclu",
+						"kcluster\tfunction"
+					],
+					[
+						"best",
+						"best_matches\tstatement"
+					],
+					[
+						"bestma",
+						"besst_match\tstatement"
+					],
+					[
+						"clust",
+						"clusters\tstatement"
+					],
+					[
+						"wor",
+						"words\tstatement"
+					],
+					[
+						"Image",
+						"ImageDraw\tmodule"
+					],
+					[
+						"distan",
+						"distances\tstatement"
+					],
+					[
+						"dist",
+						"distance\tparam"
+					],
+					[
+						"dista",
+						"distances\tstatement"
+					],
+					[
+						"sum2",
+						"sum2\tstatement"
+					],
+					[
+						"getWo",
+						"getWordCounts\tfunction"
+					],
+					[
+						"sim",
+						"similarity\tparam"
+					],
+					[
+						"item",
+						"items\tfunction"
+					],
+					[
+						"per",
+						"person1\tparam"
+					],
+					[
+						"page",
+						"page_num\tparam"
+					],
+					[
+						"getIm",
+						"getImgPageUrl\tfunction"
+					],
+					[
+						"geti",
+						"getImg\tfunction"
+					],
+					[
+						"div",
+						"div_nav\tstatement"
+					],
+					[
+						"no",
+						"None"
+					],
+					[
+						"getim",
+						"getImgPageUrl\tfunction"
+					],
+					[
+						"star",
+						"start_page\tstatement"
+					],
+					[
+						"UTF",
+						"utf-8"
+					],
+					[
+						"utf",
+						"utf-8"
+					],
+					[
+						"pap",
+						"paparaco_collection\tstatement"
+					],
+					[
+						"find",
+						"find_all"
+					],
+					[
+						"fin",
+						"find_all"
+					],
+					[
+						"image",
+						"image_img\tstatement"
+					],
+					[
+						"imga",
+						"image_url\tstatement"
+					],
+					[
+						"fi",
+						"find\tfunction"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"export",
+						"export\tkeyword"
+					],
+					[
+						"rou",
+						"RouterModule\talias"
+					],
+					[
+						"impor",
+						"imports\tproperty"
+					],
+					[
+						"router",
+						"RouterModule\talias"
+					],
+					[
+						"hea",
+						"header"
+					],
+					[
+						"em",
+						"embed\tTag"
+					],
+					[
+						"con",
+						"container-fluid \tBootstrap 3 Class"
+					],
+					[
+						"ste",
+						"stylesheet"
+					],
+					[
+						"bs3-li",
+						"bs3-list-group\tbs3-list-group"
+					],
+					[
+						"bs3-table",
+						"bs3-table:bordered\tbs3-table-bordered"
+					],
+					[
+						"nva",
+						"navbar"
+					],
+					[
+						"hero",
+						"hero-search.component\tscript"
+					],
+					[
+						"swi",
+						"switchMap\tproperty"
+					],
+					[
+						"dis",
+						"distinctUntilChanged\tproperty"
+					],
+					[
+						"ser",
+						"searchTerms\tproperty"
+					],
+					[
+						"injec",
+						"Injectable\tinterface"
+					],
+					[
+						"he",
+						"heroesUrl\tproperty"
+					],
+					[
+						"her",
+						"heroes\tproperty"
+					],
+					[
+						"prom",
+						"Promise\tinterface"
+					],
+					[
+						"htt",
+						"Http\talias"
+					],
+					[
+						"inme",
+						"InMemoryDataService\talias"
+					],
+					[
+						"inmemo",
+						"InMemoryWebApiModule\tclass"
+					],
+					[
+						"in",
+						"InMemoryBackendService\tclass"
+					],
+					[
+						"http",
+						"HttpModule\talias"
+					],
+					[
+						"HTT",
+						"HttpModule\talias"
+					],
+					[
+						"styl",
+						"styleUrls\tproperty"
+					],
+					[
+						"stye",
+						"styleUrls\tproperty"
+					],
+					[
+						"app",
+						"app-routing.module\tscript"
+					],
+					[
+						"clas",
+						"class\tkeyword"
+					],
+					[
+						"Route",
+						"RouterModule\talias"
+					],
+					[
+						"rout",
+						"Routes\talias"
+					],
+					[
+						"ng",
+						"ngFor\tAngular 2 ngFor Snippet"
+					],
+					[
+						"teml",
+						"templateUrl\tproperty"
+					],
+					[
+						"th",
+						"then\tmethod"
+					],
+					[
+						"get",
+						"getHeroes\tmethod"
+					],
+					[
+						"Hero",
+						"Hero\talias"
+					],
+					[
+						"on",
+						"OnInit\talias"
+					],
+					[
+						"temp",
+						"templateUrl\tproperty"
+					],
+					[
+						"for",
+						"forRoot\tmethod"
+					],
+					[
+						"pro",
+						"providers\tproperty"
+					],
+					[
+						"com",
+						"Component\talias"
+					],
+					[
+						"impo",
+						"import\tkeyword"
+					],
+					[
+						"img",
+						"img_url\tstatement"
+					],
+					[
+						"mzi",
+						"mzitu_collection\tstatement"
+					],
+					[
+						"time",
+						"timeout\tparam"
+					],
+					[
+						"tim",
+						"timeout\tparam"
+					],
+					[
+						"proxy",
+						"proxy\tstatement"
+					],
+					[
+						"proxy_ip",
+						"proxy_ip_list"
+					],
+					[
+						"Imagef",
+						"ImageFilter\tmodule"
+					],
+					[
+						"webdr",
+						"webdriver"
+					],
+					[
+						"web",
+						"WebDriverWait\tclass"
+					],
+					[
+						"b",
+						"By\tclass"
+					],
+					[
+						"ex",
+						"executable_path\tparam"
+					],
+					[
+						"ph",
+						"PhantomJS\tclass"
+					],
+					[
+						"sort",
+						"sortedNGrams\tstatement"
+					],
+					[
+						"ngram",
+						"ngramTemp\tstatement"
+					],
+					[
+						"ins",
+						"insertPageIfNotExists\tfunction"
+					],
+					[
+						"fet",
+						"fetchone\tfunction"
+					],
+					[
+						"hist",
+						"historyIP\tforstmt"
+					],
+					[
+						"his",
+						"historyIPs\tstatement"
+					],
+					[
+						"Http",
+						"HTTPError"
+					],
+					[
+						"add",
+						"addressList\tstatement"
+					],
+					[
+						"spli",
+						"splitAddress\tfunction"
+					],
+					[
+						"nam",
+						"nameList\tstatement"
+					],
+					[
+						"ni",
+						"nginx_writing"
+					],
+					[
+						"ngin",
+						"nginx_reading"
+					],
+					[
+						"thir",
+						"third_line\tstatement"
+					],
+					[
+						"request",
+						"requests\tstatement"
+					],
+					[
+						"ngi",
+						"nginx_server_requests"
+					],
+					[
+						"ma",
+						"matcher\tstatement"
+					],
+					[
+						"url",
+						"urllib\tmodule"
+					],
+					[
+						"metr",
+						"metric_Innodb_buffer_pool_page_free\tstatement"
+					],
+					[
+						"getke",
+						"GetKeyUsageRatio\tfunction"
+					],
+					[
+						"me",
+						"metric_key_usage_ratio\tstatement"
+					],
+					[
+						"getkey",
+						"GetKeyWriteHitRatio\tfunction"
+					],
+					[
+						"met",
+						"metric_key_write_hit_ratio\tstatement"
+					],
+					[
+						"getk",
+						"GetKeyReadHitRatio\tfunction"
+					],
+					[
+						"ge",
+						"get_queries\tfunction"
+					],
+					[
+						"ke",
+						"key_read_hit_ratio"
+					],
+					[
+						"key",
+						"Key_reads"
+					],
+					[
+						"mysql_",
+						"mysql_keys\tglobalstmt"
+					],
+					[
+						"fac",
+						"fact_iter\tfunction"
+					],
+					[
+						"a",
+						"append\tfunction"
+					],
+					[
+						"git",
+						"github"
+					],
+					[
+						"te",
+						"text-center"
+					],
+					[
+						"tex",
+						"text-left"
+					],
+					[
+						"marg",
+						"margin-top"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Ever",
+				"selected_items":
+				[
+					[
+						"Ever",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"Eo",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"E",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"Evernoe",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"ever",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"everno",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"ev",
+						"Evernote: New empty note"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"createh",
+						"Tmpl: Create html"
+					],
+					[
+						"packin",
+						"Package Control: Install Package"
+					],
+					[
+						"evr",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"packi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: l",
+						"Package Control: List Packages"
+					],
+					[
+						"pagciok",
+						"Package Control: Install Package"
+					],
+					[
+						"evenew",
+						"Evernote: New empty note"
+					],
+					[
+						"evernew",
+						"Evernote: New empty note"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"evercre",
+						"Evernote: Create New Notebook"
+					],
+					[
+						"dele",
+						"ANF: Delete Current File"
+					],
+					[
+						"eveat",
+						"Evernote: Insert link to a note (browse)"
+					],
+					[
+						"evecle",
+						"Evernote: Clear Notebook Cache"
+					],
+					[
+						"everne",
+						"Evernote: Create New Notebook"
+					],
+					[
+						"eveer ",
+						"Evernote: Clear Notebook Cache"
+					],
+					[
+						"eve de",
+						"Evernote: Delete Note"
+					],
+					[
+						"eve li",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve new",
+						"Evernote: New empty note"
+					],
+					[
+						"evedel",
+						"Evernote: Delete Note"
+					],
+					[
+						"evel",
+						"Evernote: List recent notes"
+					],
+					[
+						"evelis",
+						"Evernote: List linked notes"
+					],
+					[
+						"eveli",
+						"Evernote: List recent notes"
+					],
+					[
+						"eve lis",
+						"Evernote: List recent notes"
+					],
+					[
+						"ever li",
+						"Evernote: List recent notes"
+					],
+					[
+						"ever lis",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernotesed",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"evernote",
+						"Evernote Settings: Reconfigure Authorization"
+					],
+					[
+						"sendtoe",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"Send to evernote",
+						"Evernote: Send to Evernote as new note"
+					],
+					[
+						"eve",
+						"Evernote: List recent notes"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"de",
+						"ANF: Delete Current File"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"del",
+						"ANF: Delete Current File"
+					],
+					[
+						"rename",
+						"File: Rename"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"trans",
+						"Translate: 开始进行翻译"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"pcdp",
+						"Package Control: Discover Packages→搜索插件"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 545.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 02",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03"
+			],
+			"file_history":
+			[
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/.gitignore",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/.gitignore",
+				"/D/Study/Coding/GitHub/pinpoint/web/src/main/webapp/pages/oncecloud/groups/groups.html",
+				"/D/Study/Coding/GitHub/pinpoint/web/src/main/webapp/pages/oncecloud/hosts/hosts.controller.js",
+				"/D/BIT的/毕业设计/mine/论文/代码/scollector_collectors/get_mysql_status.py",
+				"/D/BIT的/毕业设计/mine/论文/代码/scollector_collectors/get_nginx_status.py",
+				"/D/BIT的/毕业设计/mine/论文/代码/scollector_collectors/psutil_demo01.py",
+				"/D/Study/Coding/GitHub/pinpoint/web/src/main/webapp/pages/oncecloud/groups/groups.controller.js",
+				"/D/BIT的/毕业设计/mine/论文/代码/scollector_collectors/get_nginx_status01.py",
+				"/F/boot/grub/grub.cfg",
+				"/D/Study/Coding/ML&DM/Kaggle/Titanic/logistic_regression_predictions.csv",
+				"/D/Study/Coding/ML&DM/Kaggle/Titanic/test.csv",
+				"/E/Anaconda2/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+				"/D/Study/Coding/JS & jQuery/MockJS_Demo.html",
+				"/C/Users/49255/Desktop/distributed_course.sql",
+				"/E/备份/Coding/Hexo/.gitignore",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/49255/Desktop/kaikai.txt",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Preferences.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/HTML.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Emmet.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SublimeTmpl/Default.sublime-commands",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/clusters.py",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/generatefeedvector.py",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/clusters.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blogs2d.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 02/recommendations.py",
+				"/D/BIT的/毕业设计/演示系统/演示系统/数据库设计/zabbix数据库文件/schema.sql",
+				"/D/Study/Coding/Python/code/system_monitor/get_mysql_status.py",
+				"/D/Study/Coding/Python/code/system_monitor/get_nginx_status01.py",
+				"/D/Study/Coding/Python/code/system_monitor/get_nginx_status.py",
+				"/E/Software/加速度2.5.8/加速度2.5.8/pac.txt",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/zebo.txt",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blog_clust.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/word_clust.jpg",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/blogdata.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/blogdata.txt",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/aaa",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/D/Study/Coding/Python/code/Programming Collective Intelligence/chapter 03/feedlist.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/feedlist.txt",
+				"/D/Study/Coding/Python/study materials/集体智慧编程源码/PCI_Code Folder/chapter3/generatefeedvector.py",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/sublime-translate/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Installed Packages/ChineseTranslator.sublime-package",
+				"/E/sublime text projects/Programming Collective Intelligence.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Anaconda.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/E/sublime text projects/paparaco.me.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/LICENSE",
+				"/D/Study/Coding/Python/code/my_crawler/paparaco.me/paparaco.py",
+				"/D/Study/Coding/Python/code/my_crawler/paparaco.me/__init__.py",
+				"/D/Study/Coding/GitHub/ZhihuSpider/get_user.py",
+				"/D/Study/Coding/GitHub/ZhihuSpider/login/login.py",
+				"/D/Study/Coding/Python/code/my_crawler/mzitu.com/mzitu.py",
+				"/E/sublime text projects/Bosun-GUI.sublime-project",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/49255/Documents/My Knowledge/Plugins/ExportToMd/ExportToMd.js",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Evernote.sublime-settings",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/49255/Desktop/test.md",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Evernote/README.md",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/app.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/css/style.css",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/templates.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.module.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app.module.js",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/index.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/app-routing.module.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/hosts.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/templates.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/html/hosts.component.html",
+				"/E/Coursera/machine-learning/exercise/nnCostFunction.m",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex2/machine-learning-ex2/ex2/ex2data1.txt",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex1/machine-learning-ex1/ex1/ex1data2.txt",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch04/array_ex.txt",
+				"/E/Coursera/machine-learning/exercise/machine-learning-ex1/machine-learning-ex1/ex1/ex1data1.txt",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/.gitignore",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/HTML/ToPiggy.html",
+				"/D/Study/Coding/ForBaby/pulse bgcolor in css3/gitignore",
+				"/D/Study/Coding/blessing/ForBaby/index.html",
+				"/D/Study/Coding/blessing/ForBaby/css/default.css",
+				"/D/Study/Coding/blessing/ForBaby/js/functions_dev.js",
+				"/D/Study/Coding/blessing/ForBaby/js/functions.js",
+				"/D/Study/Coding/blessing/Love/index.html",
+				"/D/Study/Coding/blessing/Merry-Christmas/index.html",
+				"/D/Study/Coding/blessing/MerryChristmas/index.html",
+				"/D/Study/Coding/blessing/MerryChristmas/js/index.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/dist/css/app.css",
+				"/D/Study/Coding/blessing/Merry-Christmas/dist/js/app.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/zepto-min.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/snowstorm.js",
+				"/D/Study/Coding/blessing/Merry-Christmas/src/js/christmas.js",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/names/yob1880.txt",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/movielens/README",
+				"/D/Study/Coding/Python/study materials/利用Python进行数据分析/pydata-book/ch02/usagov_bitly_data2012-03-16-1331923249.txt",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/dashboard.component.html",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/dashboard.component.ts",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.css.map",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.min.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.css.map",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/style.css",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/css/bootstrap-theme.min.css",
+				"/D/Study/Coding/Angular 2/Bosun-GUI/app/css",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/CSS.sublime-settings",
+				"/D/Study/Coding/Boostrap/bootstrap-3.3.0-dist/dist/example.html",
+				"/D/Study/Coding/Boostrap/Bosun-UI-Demo/test.html",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.component.css",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/node_modules/rxjs/operator/switchMap.d.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/tsserver/lib.es5.d.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/User/Package Control.user-ca-bundle",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/Anaconda/README.md",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/AdvancedNewFile/README.md",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.component.ts",
+				"/D/Study/Coding/Angular 2/Bosun_GUI/app/app.module.ts",
+				"/D/software/SublimeText3_ha/Sublime Text 3.3126x64/Data/Packages/TypeScript/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"font.family",
+					"566",
+					"将数组升序排序即可，评论区有证明！",
+					"disco",
+					"google",
+					"Pearson",
+					"path",
+					"alt+p",
+					"path",
+					")\n",
+					"&&",
+					"]]\n",
+					"del clust[lowest_pair[0]]",
+					"]]\n",
+					"\\",
+					"python_inte",
+					"inte",
+					"print",
+					"save",
+					"self.request",
+					"paparaco",
+					"check_login",
+					"check",
+					"md",
+					"m",
+					"md",
+					"---",
+					"timeElapse",
+					"typ",
+					"typewr",
+					"type",
+					"loveu",
+					"digi",
+					"font",
+					"comme",
+					"loveHe",
+					"elap",
+					"\\",
+					"active",
+					"head",
+					"Header",
+					"ctrl+",
+					"ctrl + up",
+					"handleError",
+					"google",
+					"zabbix",
+					"google",
+					"HeroDe",
+					"show",
+					"Heroes",
+					"a",
+					"Heroes",
+					"alt+s",
+					"alt+p",
+					"ctrl+shift+c",
+					"HeroDetailComponent",
+					"selectedHero",
+					"request",
+					"3",
+					"request",
+					"requests",
+					"isCommon",
+					"content[i : i + n]",
+					"把连续的多个空格替换成一个空格",
+					"input",
+					"[]",
+					"show",
+					"build",
+					"server_handled",
+					"server_accepts",
+					"nginx_waiting",
+					"nginx_writing",
+					"nginx_reading",
+					"nginx_server_requests",
+					"nginx_server_handled",
+					"nginx_server_accepts",
+					"active_connections",
+					"nginx_active_connections",
+					"dict",
+					"re",
+					"except",
+					"res",
+					"_glock",
+					"call_back",
+					"nginx_stub_status",
+					"_conns",
+					"_descriptors",
+					"test",
+					"remoteVideo",
+					"localVideo",
+					"text",
+					"scri",
+					"java",
+					"javas",
+					"133.133.134.163",
+					"data",
+					"jquery",
+					"algolia",
+					"algo",
+					"path",
+					"slug",
+					"增加",
+					"algolia",
+					"CONFIG",
+					"CO",
+					"algo",
+					"theme",
+					"hexo.con",
+					"algolia",
+					"algo",
+					"js",
+					"url",
+					"js",
+					"menu",
+					"version",
+					"algolia",
+					"pow",
+					"po",
+					"power",
+					")",
+					"SublimeREPL",
+					"sublimerepl:python",
+					"creativecommons.org",
+					"creativecommons.org/licenses",
+					"target",
+					"<a href=\"{{ link }}\" tar",
+					"<a href=\"{{ link }}\" target=\"_blank\">{{ name }",
+					"<a href=\"{{ link }}\" target=\"_blank\">{{ name }}</a>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"and",
+					"/",
+					"\\\\",
+					"hero",
+					"key",
+					"content",
+					"connections_handled",
+					"connections_accepts",
+					"waiting",
+					"writing",
+					"reading",
+					"client_requests",
+					"server_handled",
+					"server_accepts",
+					"active_connections",
+					"192.168.56.103",
+					"motorboat",
+					"品牌",
+					"motorboat",
+					"sailing",
+					"hw2007.com",
+					"www.hw2007.com",
+					"https://wsszh.github.io",
+					"https://wsszh.github.io/",
+					"wsszh.github.io",
+					"surfing",
+					"sailing",
+					"motorboat"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 307.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "Anaconda Python Builder",
+			"position": "0,2,3,-1,-1,-1,-1,636,-733,37,49",
+			"project": "Programming Collective Intelligence.sublime-project",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"zeb",
+						"chapter 03\\zebo.txt"
+					],
+					[
+						"",
+						"D:\\Study\\Coding\\Python\\code\\Programming Collective Intelligence\\chapter 03\\clusters.jpg"
+					],
+					[
+						"app/html/ho",
+						"app\\html\\hosts.component.html"
+					],
+					[
+						"app/html/ap",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/appmod",
+						"app\\app.module.ts"
+					],
+					[
+						"app/appro",
+						"app\\app-routing.module.ts"
+					],
+					[
+						"app/appmo",
+						"app\\app.module.ts"
+					],
+					[
+						"hosts",
+						"app\\hosts.component.ts"
+					],
+					[
+						"appcomt",
+						"app\\app.component.ts"
+					],
+					[
+						"app/html/a",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/html/",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/csssty",
+						"app\\css\\style.css"
+					],
+					[
+						"appcomht",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app/css/sty",
+						"app\\css\\style.css"
+					],
+					[
+						"app.co",
+						"app\\app.component.ts"
+					],
+					[
+						"app/html/app",
+						"app\\html\\app.component.html"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"app/app.modul",
+						"app\\app.module.ts"
+					],
+					[
+						"app/html",
+						"app\\html\\app.component.html"
+					],
+					[
+						"app",
+						"app\\app.component.ts"
+					],
+					[
+						"dashbo",
+						"app\\dashboard.component.html"
+					],
+					[
+						"dash",
+						"app\\dashboard.component.ts"
+					],
+					[
+						"app/app",
+						"app\\app.component.ts"
+					],
+					[
+						"css/s",
+						"css\\style.css"
+					],
+					[
+						"css/st",
+						"css\\style.css"
+					],
+					[
+						"css/b",
+						"css\\bootstrap.css"
+					],
+					[
+						"css/boo",
+						"css\\bootstrap.css"
+					],
+					[
+						"boo",
+						"css\\bootstrap.min.css"
+					],
+					[
+						"app/i",
+						"app\\in-memory-data.service.ts"
+					],
+					[
+						"herosear",
+						"app\\hero-search.service.ts"
+					],
+					[
+						"herosearhtml",
+						"app\\hero-search.component.html"
+					],
+					[
+						"app/appmodul",
+						"app\\app.module.ts"
+					],
+					[
+						"heroes",
+						"app\\heroes.component.ts"
+					],
+					[
+						"herocom",
+						"app\\heroes.component.ts"
+					],
+					[
+						"hero.t",
+						"app\\hero.ts"
+					],
+					[
+						"heroser",
+						"app\\hero.service.ts"
+					],
+					[
+						"herosev",
+						"app\\hero.service.ts"
+					],
+					[
+						"heroescomcss",
+						"app\\heroes.component.css"
+					],
+					[
+						"heroesht",
+						"app\\heroes.component.html"
+					],
+					[
+						"heroeshtml",
+						"app\\heroes.component.html"
+					],
+					[
+						"herodt",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"herodethtml",
+						"app\\hero-detail.component.html"
+					],
+					[
+						"app/heroes",
+						"app\\heroes.component.ts"
+					],
+					[
+						"herodetts",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"hero-deh",
+						"app\\hero-detail.component.html"
+					],
+					[
+						"herose",
+						"app\\hero.service.ts"
+					],
+					[
+						"heroesh",
+						"app\\heroes.component.html"
+					],
+					[
+						"app.mo",
+						"app\\app.module.ts"
+					],
+					[
+						"appcss",
+						"app\\app.component.css"
+					],
+					[
+						"sty",
+						"styles.css"
+					],
+					[
+						"herode",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"approu",
+						"app\\app-routing.module.ts"
+					],
+					[
+						"dashboard.h",
+						"app\\dashboard.component.html"
+					],
+					[
+						"herodi",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"hero.con",
+						"app\\heroes.component.ts"
+					],
+					[
+						"ap.mu",
+						"app\\app.module.ts"
+					],
+					[
+						"hero.ser",
+						"app\\hero.service.ts"
+					],
+					[
+						"herodeta",
+						"app\\hero-detail.component.ts"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"app/modu",
+						"app\\app.module.ts"
+					],
+					[
+						"app/",
+						"app\\app.component.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 247.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 25,
+			"workspace_name": "/E/sublime text projects/Programming Collective Intelligence.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/sublime text projects/Programming Collective Intelligence.sublime-workspace",
+			"/E/sublime text projects/paparaco.me.sublime-workspace",
+			"/E/sublime text projects/集体智慧编程源码.sublime-workspace",
+			"/D/Study/Coding/Angular 2/Bosun-GUI/ZhihuSpider.sublime-workspace",
+			"/E/sublime text projects/Bosun-GUI.sublime-workspace",
+			"/E/sublime text projects/Bosun-UI-Demo.sublime-workspace"
+		]
+	}
+}
